@@ -1,0 +1,21 @@
+1.simulate the following non preemptive cpu scheduling algorithm to find the turn around time and waiting time
+a)stf
+b)sjf
+c)round robin(pre emptive)
+d)priority
+
+2.simulate the following disk scheduling LGORITHMS
+A)STFS
+B)SCAN
+C)C-SCAN
+
+3.implemet the bankers algorithm for deadlock avoidance
+
+4.simulate the following file organization techniques
+a)single level directory
+b)two level directory
+c)hierarchical
+
+5.Implemet the producer consumer problem using semaphores
+
+6.Write a program to simulate the working of the dining philosphers problem
