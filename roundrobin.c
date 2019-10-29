@@ -15,7 +15,7 @@ int main()
     scanf("%d",&bt[count]);
     rt[count]=bt[count];
   }
-  printf("Enter Time Quantum:\t");
+  printf("Enter the Time Quantum:\t");
   scanf("%d",&time_quantum);
   printf("\n\nProcess\t|Turnaround Time|Waiting Time\n\n");
   for(time=0,count=0;remain!=0;)
