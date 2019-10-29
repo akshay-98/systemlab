@@ -1,5 +1,5 @@
 #include<stdio.h>
-int priority[10];
+int priority[20];
 void findwt(int processes[10],int waittime[10],int bursttime[10],int n,int turntime[10])
 {
   waittime[0]=0;
