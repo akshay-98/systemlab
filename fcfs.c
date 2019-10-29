@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 void findwt(int processes[10],int waittime[10],int bursttime[10],int n,int turntime[10])
 {
   waittime[0]=0;
