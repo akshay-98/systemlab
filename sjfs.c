@@ -30,7 +30,7 @@ void main()
 
   for(i=0;i<n;i++)
   {
-    printf("Enter the bursttime[%d]:",i);
+    printf("Enter bursttime[%d]:",i);
     scanf("%d",&bursttime[i]);
   }
   for(i=0;i<n;i++)
